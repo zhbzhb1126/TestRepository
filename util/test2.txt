@@ -1,0 +1,15 @@
+
+你好，
+
+是的
+
+哈哈哈哈
+
+
+git pull的时候报错：git did not exit cleanly (exit code 1)
+
+此时我们可以试着做Git commit -> "master"
+
+此时你会发现你这里有未提交的文件: Not Versioned Files. 把这些文件干掉.
+
+重新做git pull的时候就不会报错啦..
