@@ -1,1 +1,2 @@
 I stutdy git
+my first app
