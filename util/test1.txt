@@ -1,0 +1,9 @@
+
+你好，
+
+是的
+
+哈哈哈哈
+
+
+it pull的时候报错：git did not exit cleanly (exit code 1)
