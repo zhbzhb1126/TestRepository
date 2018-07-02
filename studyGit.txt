@@ -1,2 +1,4 @@
 I stutdy git
 my first app
+my sencond app
+ 
